@@ -1,0 +1,33 @@
+@import "settings";
+@import "custom/apps/foundation";
+
+
+@import "site";
+
+
+div.off-canvas.top.is-active .grid-content,
+div.off-canvas.bottom.is-active .grid-content,
+div.off-canvas.left.is-active .grid-content,
+div.off-canvas.left.is-active .grid-content,{
+	padding-left: 0px;
+    padding-right: 0px;
+}
+
+.off-canvas-list{
+	li{
+		label{
+
+		}
+		a{
+			display: block;
+		    padding: 0.66667rem;
+		    color: rgba(255, 255, 255, 0.7);
+		    border-bottom: 1px solid #262626;
+		    transition: background 300ms ease;
+
+			background: #242424;			// important
+			&:hover{background: #008cba;}   // important
+		}
+	}
+
+}
