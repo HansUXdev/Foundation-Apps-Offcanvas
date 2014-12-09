@@ -2,12 +2,9 @@
 This is a new template that features Foundation-Apps Offcanvas component and uses top, left, right, and bottom offcanvas.
 
 PLEASE NOTE:
-1). The new offcavass is different from the one we are used to in Foundation Sites but is considerably easier to impliment (Thank you Zurb Gods). However that said, it is much more boilerplate and (unless i'm missing something) lacks alot of styling sexyness.
-2). _Settings file allows you to use these for horizontal and vertical scrolling. However I have manually disabled the horizontal scrolling (I dont see it working well with right and left canvas). Also to make this demo pretty. I may later add some sort of horizontal scrolling to the bottom and top canvas...
-3). I am also importing icon-bar from FoundationForSites because frankly it works better for APPS then it does for just web. 
-
-
- that the new offcanvas has what I consider a padding issue when you will see if you remove the inline style on line 56 in the offcanvas-right.
+ 1. The new offcavass is different from the one we are used to in Foundation Sites but is considerably easier to impliment (Thank you Zurb Gods). However that said, it is much more boilerplate and (unless i'm missing something) lacks alot of styling sexyness.
+ 2. _Settings file allows you to use these for horizontal and vertical scrolling. However I have manually disabled the horizontal scrolling (I dont see it working well with right and left canvas). Also to make this demo pretty. I may later add some sort of horizontal scrolling to the bottom and top canvas...
+ 3. I am also importing icon-bar from FoundationForSites because frankly it works better for APPS then it does for just web. 
 
 
 # Foundation for Apps Template
